@@ -1,0 +1,35 @@
+.form-label {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #4184EC;
+    margin: 0px;
+}
+
+.space-label {
+    margin-bottom: 10px;
+
+}
+
+.form-control {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.title-body {
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.icon-step {
+    font-size: 28px;
+    color: black;
+}
+
+.text-h6 {
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 5px;
+}

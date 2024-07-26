@@ -1,0 +1,44 @@
+.container-body-menuLateral {
+    height: auto;
+    padding: 10px;
+}
+
+.btn-menu-lateral {
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.btn-lateral {
+    border-radius: 50%;
+    height: 40%;
+}
+
+.icon-menu-btn {
+    font-size: 28px;
+    color: #4184ec;
+}
+
+.icon-menu:hover {
+    color: #065cde;
+}
+
+.icon-menu {
+    color: #4184ec;
+}
+
+.nav-link:hover {
+    background: #716f6f8d;
+    color: #065cde;
+}
+
+.icon-exit {
+    color: red;
+    font-size: 32px;
+    margin-left: 10px;
+}
+
+.spaces-button {
+    position: fixed;
+    bottom: 10px;
+
+}

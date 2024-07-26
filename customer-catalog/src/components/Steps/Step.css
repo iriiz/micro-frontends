@@ -1,0 +1,33 @@
+.space-step {
+    margin-bottom: 15px;
+}
+
+.space-label {
+    margin-right: 10px;
+}
+
+.sin-space {
+    margin: 0px;
+    padding: 0px;
+}
+
+.space-select {
+    padding-top: 10px;
+}
+
+.txt-button {
+    font-family: sans-serif;
+    font-size: 16px;
+    border-radius: 16px;
+    height: 40px;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
+.error {
+    border-color: red;
+    color: red;
+}

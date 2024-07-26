@@ -1,0 +1,43 @@
+.icon-menu {
+    color: #000;
+    font-size: 28px;
+}
+
+.collapse {
+    padding: 0px;
+}
+
+.navbar-nav {
+    padding: 0px;
+}
+
+.circle {
+    border: 2px solid green;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding-top: 0px;
+    margin-top: 10px;
+}
+
+.icon-menu-circle {
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+.nav-item:hover {
+    background: #4184ec50;
+}
+
+.icon-menu:hover {
+    font-size: 32px;
+}
+
+.circle:hover {
+    background: green;
+}

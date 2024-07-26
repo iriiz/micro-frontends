@@ -1,0 +1,175 @@
+:root {
+  --sitespay-blue: rgb(65, 132, 236);
+  --sitespay-blue-light: #4184ec50;
+}
+
+body {
+  /* background: #e6e6e6;*/
+  background-color: #4184ec;
+  background-image: linear-gradient(to left, #4184ec, #1602ab);
+}
+
+.container-body-login {
+  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-top: 5%;
+}
+
+.container-body-home {
+  margin-left: 0px;
+  margin-top: 10px;
+  background: #fff;
+}
+
+.space-profile {
+  margin: 0px;
+  padding: 0px;
+}
+
+.left-shadow {
+  box-shadow: -4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.right-shadow {
+  box-shadow: 4px 0 4px -4px rgba(0, 0, 0, 0.25);
+}
+
+.container-login {
+  border-radius: 25px;
+  margin: 0vh auto;
+  width: 40%;
+  background: #fff;
+  padding: 2rem;
+}
+
+.container-accordion {
+  height: calc(100vh - 90px);
+  overflow: auto;
+}
+
+.grid {
+  width: 50%;
+}
+
+.container-body {
+  background: #fff;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  background-color: var(--sitespay-blue);
+  color: white;
+  border: 0px;
+  outline: 0px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: var(--sitespay-blue-light);
+}
+
+.content-login-data {
+  margin: 20px;
+}
+
+/* styles.css */
+.toggle-password-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-top: -30px;
+  margin-left: calc(100% - 10%);
+  height: 20px;
+}
+
+.toggle-password-btn:focus {
+  outline: none;
+  background: none;
+}
+
+.toggle-password-btn svg {
+  vertical-align: middle;
+  color: gray;
+}
+
+.col-menu-lateral {
+  background: #000;
+  height: 100vh;
+}
+
+.hedaer-step {
+  background: #4184ec;
+  height: 90px;
+  padding-top: 5px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.btn-icon-step {
+  border-radius: 50%;
+  height: 55px;
+  margin-top: -20px;
+}
+
+.progress-step {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.icons-steps {
+  margin-top: -30px;
+}
+
+.space-text-h6 {
+  margin-left: -25px;
+}
+
+.container-icon-steps {
+  background: #fff;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border-color: #000;
+}
+
+.container-icon-steps:hover {
+  background: #4184ec;
+  border-color: #000;
+}
+
+.step-body {
+  margin: 2rem;
+}
+
+.step-active {
+  background: #6E7882;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border-color: #000;
+}
+
+.step-active:hover {
+  background: #b2aeae;
+}
+
+.step-checked {
+  background: green;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border-color: #000;
+}
+
+.step-checked:hover {
+  background: #30d446;
+}

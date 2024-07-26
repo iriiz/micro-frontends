@@ -1,0 +1,40 @@
+.headers {
+    height: 70px;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    padding-top: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    padding: 0px;
+}
+
+.container-btn-menu {
+    height: 40px;
+}
+
+.space-button {
+    margin-right: 20px;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.btn-font {
+    font-size: 18px;
+    font-family: sans-serif;
+    border-radius: 16px;
+}
