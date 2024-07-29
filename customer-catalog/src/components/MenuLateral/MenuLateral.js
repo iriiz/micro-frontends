@@ -19,13 +19,13 @@ function MenuLateral() {
                     <Nav.Link href="/registro">
                         <i className="bi bi-person-vcard icon-menu "></i>
                     </Nav.Link>
-                    <Nav.Link href="link-2">
+                    <Nav.Link>
                         <i className="bi bi-person icon-menu"></i>
                     </Nav.Link>
-                    <Nav.Link eventKey="link-3">
+                    <Nav.Link>
                         <i className="bi bi-file-earmark-plus icon-menu"></i>
                     </Nav.Link>
-                    <Nav.Link eventKey="link-4">
+                    <Nav.Link>
                         <i className="bi bi-layout-text-sidebar-reverse icon-menu"></i>
                     </Nav.Link>
                 </Nav>

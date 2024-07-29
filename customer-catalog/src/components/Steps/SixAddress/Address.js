@@ -108,7 +108,7 @@ function Address({ handel, handelStepNext, handelStepBack }) {
                             </div>
                             <div className='col-sm-4'>
                                 <div className="d-grid gap-2">
-                                    <button className="btn btn-success txt-button" onClick={handel} type="button">Direccion</button>
+                                    <button className="btn btn-success txt-button" onClick={handel} type="button">Datos Representante Legal</button>
                                 </div>
                             </div>
                             <div className='col-sm-4'>

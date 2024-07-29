@@ -2,7 +2,7 @@ import React from 'react';
 import { paises, estados } from '../../../catalog/getPais';
 import { identificacion, ocupacion } from '../../../catalog/getIdentificacion';
 
-function RepresentativeData({ handel, handelStepNext, handelStepBack }) {
+function RepresentativeData({ handel, handelStepNext, handelStepBack, title }) {
     return (
         <div>
             <div className='container-data'>
